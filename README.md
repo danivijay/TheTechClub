@@ -1,9 +1,11 @@
 # TheTechClub
-Resources for 'TheTechClub' initiative.
+'TheTechClub' initiative's official repo.
 
-## Expected Mediums
+## Target Medium
+Chat applications like
 * Whatsapp
 * Telegram
 
-## Auther
+## Admins
 Dani Vijay
+Riyas K P
