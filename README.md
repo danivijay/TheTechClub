@@ -7,5 +7,5 @@ Chat applications like
 * Telegram
 
 ## Admins
-Dani Vijay
-Riyas K P
+* Dani Vijay
+* Riyas K P
