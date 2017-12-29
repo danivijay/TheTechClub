@@ -8,7 +8,3 @@
 ## Support Medium
 * YouTube
 * Blog
-
-## Admins
-* Dani Vijay
-* Riyas K P
