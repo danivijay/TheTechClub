@@ -2,9 +2,12 @@
 'TheTechClub' initiative's official repo.
 
 ## Target Medium
-Chat applications like
 * Whatsapp
 * Telegram
+
+## Support Medium
+* YouTube
+* Blog
 
 ## Admins
 * Dani Vijay
